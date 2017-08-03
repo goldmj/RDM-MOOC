@@ -4,28 +4,20 @@ Develop open course curriculum for teaching best practices for biomedical resear
 
 ## Projet Status Goals
 Short Team
-
-> Content creation
-
-> Content revisions
+- Content creation
+- Content revisions
 
 Mid-Term
-> Identify platform
-
-> UX desgin
-
-> Findability and access
-
-> Getting users!
-
-> User feedback
+- Identify platform
+- UX desgin
+- Findability and access
+- Getting users!
+- User feedback
 
 Long Term
+- Active curriculum
+- Adoptability
+- Curation
+- Expansion
 
-> Active curriculum
-
-> Adoptability
-
-> Curation
-
-> Expansion
+## Events
