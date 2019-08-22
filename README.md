@@ -31,24 +31,24 @@ We welcome contributors and future collaborators.
 <b>How much does the course cost?</b>
 It's free!
 
-<b>How long will the course take me?</b>
+<b>How long will the course take me?</b><br>
 Beyond the 20 hours of commitment, you may complete this course at your own pace on your own schedule. We encourage you to take the entire course sequentially, as the content builds upon itself. Each module requires around 2 hours of commitment for watching videos, exploring readings and resources, completing activities, and performing assessments. Engagement time will vary between participants based on your learning goals.
 
-<b>What should I expect from the course?</b>
+<b>What should I expect from the course?</b><br>
 Each of the nine modules is dedicated to a specific component of data management best practices, and includes video lectures, presentation slides, readings & resources, research teaching cases, interactive activities, and concept quizzes.
 
-<b>Who are the instructors?</b>
+<b>Who are the instructors?</b><br>
 The course content is delivered through video lectures presented by research data management experts from various backgrounds. Instructors include faculty from a variety of private and public institutions. Here is a [complete list of all instructors and thier profiles](https://osf.io/vrnfx/wiki/Instructor%20Profiles/).
 
-<b>Who is the course geared at?</b>
+<b>Who is the course geared at?</b><br>
 This course is aimed at a broad audience including librarians, biomedical researchers, undergraduate and graduate biomedical students, and all other interested individuals.
 
-<b>What do I get for completing the course?</b>
+<b>What do I get for completing the course?</b><br>
 Within each module you are able to receive a badge indicating your expertise in that topic area. If you complete all nine modules, you will also receive a course badge and have the opportunity to fill out a form to receive a certificate of course completion. This certificate is documentation of this professional development activity to add to your CV, and promote your time taken on this topic.
 
 ## Funding 
 - National Library of Medicine of the National Institutes of Health 
-- Big Data to Knowledge (BD2K) Initiative for Resource Development Award Number R25LM012284
+- Big Data to Knowledge (BD2K) Initiative for Resource Development [Award Number R25LM012284](https://projectreporter.nih.gov/project_info_description.cfm?icde=0&aid=9035943)
 - Project led by the The Francis A. Countway Library of Medicine at the Harvard Medical School
 - The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH
 
