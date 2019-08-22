@@ -1,8 +1,9 @@
 # Research Data Management | Massive Open Online Course
 
 ## Online Course
-[Canvas Network Course Site](http://bit.ly/HMS-RDM-MOOC)
-[Open Science Framework Companion Site](https://osf.io/vrnfx/)
+MOOC: [Canvas Network Course Site](http://bit.ly/HMS-RDM-MOOC)
+<br>
+Open Materials: [Open Science Framework Companion Site](https://osf.io/vrnfx/)
 
 ## Project Mission & Summary
 Develop open course curriculum for teaching best practices for biomedical research data management. Aimed at librarians, biomedical researchers, undergraduate and graduate biomedical students. Curriculum provides recommended practices for facilitating the discoverability, access, integrity, reuse value, privacy, security, and long term preservation of biomedical research data.
